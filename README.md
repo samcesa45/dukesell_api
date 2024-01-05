@@ -16,9 +16,9 @@ After an order is made he/she can proceed to make payment
 ## REST API
 
 
-| ENDPOINT  | HTTP METHOD | USEAGE |
-| ------------- | ------------- | ------------- |  
-| /api/v1/auth/register  | post  | accept email, name, password,address and phone number of the user
+| ENDPOINT  | HTTP METHOD | USEAGE | RETURNS
+| ------------- | ------------- | ------------- | ------------- |  
+| /api/v1/auth/register  | post  | accept email, name, password,address and phone number of the user | userId
 | /api/v1/auth/login | post |
 
 
