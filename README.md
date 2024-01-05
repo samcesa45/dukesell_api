@@ -25,8 +25,9 @@ After an order is made he/she can proceed to make payment
 # GraphQL The Schema
 1. Mutations
 
-| Functions | USEAGE |
+| Functions | Useage |
 | ------------- | ------------- | 
+| add product to cart | addToCart(product: Float!): Cart_item! |
 
 
 # How To Use
