@@ -24,8 +24,9 @@ After an order is made he/she can proceed to make payment
 
 # GraphQL The Schema
 1. Mutations
-  | Functions | USEAGE |
-  | ------------- | ------------- | 
+
+| Functions | USEAGE |
+| ------------- | ------------- | 
 
 
 # How To Use
