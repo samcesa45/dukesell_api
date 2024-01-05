@@ -27,7 +27,7 @@ const isValidUser: CustomValidator = (value) => {
   })
 }
 authRouter.post(
-  '/signup',
+  '/register',
   [
     body('email')
       .isEmail()
