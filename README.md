@@ -23,8 +23,9 @@ After an order is made he/she can proceed to make payment
 | /api/v1/products/create | post | accept name ,description , image,price and quantity for a product | product response
 
 # GraphQL The Schema
-1. MUTATIONS
-  | Functions | USEAGE | 
+1. Mutations
+  | Functions | USEAGE |
+  | ------------- | ------------- | 
 
 
 # How To Use
