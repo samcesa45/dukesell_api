@@ -29,6 +29,7 @@ After an order is made he/she can proceed to make payment
 | ------------- | ------------- | 
 | add product to cart | addToCart(product: Float!): Cart_item! |
 | delete from cart | deleteFromCart(prodId: Float!): Boolean! |
+| place order using cash on delivery option | addOrder(address: String = "", cart: Float!, payType: String!, phoneNumber: String = ""): Order! |
 
 
 # How To Use
