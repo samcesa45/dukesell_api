@@ -32,6 +32,16 @@ After an order is made he/she can proceed to make payment
 | place order using cash on delivery option | addOrder(address: String = "", cart: Float!, payType: String!, phoneNumber: String = ""): Order! |
 | place order using bank card | addOrderUsingCard(address: String = "", cardInfo: CardInput!, cart: Float!, phoneNumber: String = ""): Order! |
 
+2. Queries
+
+| Functions | Useage |
+| ------------- | ------------- | 
+| get all products | getAllProducts(page: Float = 1): [Product!]! |
+| get one product by id | getProduct(prodId: Float!): Product! |
+| get cart items | getCartItems: CartData! |
+| get order items | getOrderItems(orderId: Float!): OrderData! |
+| get orders history | getOrdersHistory: [OrderData!]! |
+
 
 # How To Use
 git clone https://github.com/samcesa45/dukesell_backend.git to clone the project to your local machine
