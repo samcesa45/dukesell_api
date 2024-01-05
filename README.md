@@ -19,7 +19,7 @@ After an order is made he/she can proceed to make payment
 | ENDPOINT  | HTTP METHOD |
 | ------------- | ------------- |  
 | /api/v1/auth/register  | post  |
-| Content Cell  | Content Cell  |
+| /api/v1/auth/login | post |
 
 
 
