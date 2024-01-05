@@ -12,6 +12,13 @@ A user can create and order and adds it to the orderItem
 ## Payment
 After an order is made he/she can proceed to make payment
 
+# Endpoints
+## REST API
+
+ENDPOINT | ___________ | HTTP METHOD | USEAGE | RETURNS |
+
+
+
 # How To Use
 git clone https://github.com/samcesa45/dukesell_backend.git to clone the project to his local machine
 npm install to install all dependencies
