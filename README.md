@@ -1,7 +1,7 @@
 # Overview
 An ecommerce api that uses graphql, mongoose and express as server to integrate with a SPA client
 Graphql and apollo/server is mainly used to to manage the server all the queries and mutations are modularized into a different folder
-the server.ts file is the entry/root to the application
+the index.ts file is the entry/root to the application
 # Features
 ## Auth
 It uses jsonwebtoken to create tokens for users that login into the application and saves the token in the database so that the user can login subsequently until it expires
