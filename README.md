@@ -22,6 +22,10 @@ After an order is made he/she can proceed to make payment
 | /api/v1/auth/login | post | accept email and password | the JWT token
 | /api/v1/products/create | post | accept name ,description , image,price and quantity for a product | product response
 
+# GraphQL The Schema
+1. MUTATIONS
+  | Functions | USEAGE | 
+
 
 # How To Use
 git clone https://github.com/samcesa45/dukesell_backend.git to clone the project to your local machine
