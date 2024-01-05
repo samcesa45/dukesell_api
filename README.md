@@ -15,7 +15,11 @@ After an order is made he/she can proceed to make payment
 # Endpoints
 ## REST API
 
-ENDPOINT | ___________ | HTTP METHOD | USEAGE | RETURNS |
+
+| ENDPOINT  | HTTP METHOD |
+| ------------- | ------------- |  
+| /api/v1/auth/register  | post  |
+| Content Cell  | Content Cell  |
 
 
 
