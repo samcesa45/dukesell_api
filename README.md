@@ -44,6 +44,6 @@ After an order is made he/she can proceed to make payment
 
 
 # How To Use
-git clone https://github.com/samcesa45/dukesell_backend.git to clone the project to your local machine
+git clone https://github.com/samcesa45/dukesell_api.git to clone the project to your local machine
 npm install to install all dependencies
 npm run dev to run the project locally
